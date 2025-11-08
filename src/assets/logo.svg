@@ -1,0 +1,9 @@
+<!-- file: asma-logo.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 120" width="250" height="120" role="img" aria-label="AsMa logo">
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Brush Script MT, 'Lucida Handwriting', 'Dancing Script', cursive"
+        font-size="60" font-style="italic"
+        fill="#5a43cb">
+    AsMa
+  </text>
+</svg>
