@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
   const repoName = env.VITE_REPO_NAME || "";
 
   return {
-    base: mode === "production" ? `/${repoName}/` : "/", // ✅
+    base: mode === "production" ? `/AsMa/` : "/", // ✅
     plugins: [react(), tailwindcss()],
     server: {
       open: true,
